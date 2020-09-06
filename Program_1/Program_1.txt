@@ -1,0 +1,1 @@
+This is our first system program which open a file in read mode.
